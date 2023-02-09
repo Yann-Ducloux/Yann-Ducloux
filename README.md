@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yann-Ducloux.
 - 👀 I’m interested in improvisational theater.
-- 🌱 I’m currently learning SpringBoot and Angular 14.
+- 🌱 I am upgrading to java version 11.
 - 📫 How to reach me on ducloux.y@gmail.com
