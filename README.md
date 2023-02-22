@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yann-Ducloux.
 - 👀 I’m interested in improvisational theater.
-- 🌱 I am upgrading to java version 11.
+- 🌱 I learn new good practice.
 - 📫 How to reach me on ducloux.y@gmail.com
